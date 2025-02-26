@@ -1,25 +1,13 @@
-**1. Temperature Converter**
-
+**Temperature Converter**
 **Project Description**
-
-A simple temperature converter web application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
-
-Features
-
-Convert between Celsius, Fahrenheit, and Kelvin
-
-User-friendly interface
-
+A basic temperature converter web application to convert temperatures from Celsius to Fahrenheit and vice-versa.
+**Features**
+Conversion of Celsius to Fahrenheit and Fahrenheit-Celsius.
+Easy-to-use interface
 Responsive design
-
-Technologies Used
-
-HTML, CSS, JavaScript
-
-How to Use
-
-Enter the temperature value.
-
-Select the input and output temperature scales.
-
-Click the "Convert" button to see the result.
+**Technologies Used**
+HTML, CSS, JavaScript(basic)
+**How to Use**
+Input the temperature value.
+Choose the input and output temperature scales.
+Hence it shows the converted temperature.
